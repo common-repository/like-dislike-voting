@@ -1,0 +1,38 @@
+			
+
+			.likepost{
+			font-size: 18px;
+			padding:1px;
+			display:block;
+			float:left;
+			color:#96CA33;
+			}
+
+			.unlikepost{
+			font-size: 18px;
+			padding:1px;
+			display:block;
+			float:left;
+			color:rgba(231, 55, 60, 0.75);
+			
+			}
+
+
+			.likepostimg{
+			float:left;
+			width:30px;
+			}
+			
+			.unlikepostimg{
+			float:left;
+			width:30px;
+			margin-left: 10px;
+			}
+
+			.wrap_admin{
+			
+			width:500px;
+			}
+			.likeImgContainer{
+				text-decoration: none;
+			}
